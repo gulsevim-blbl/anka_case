@@ -34,11 +34,11 @@
     color:#000000;
     font-family: IBM Plex Sans;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 28px;
     letter-spacing: 0em;
     text-align: left;
-    width: 198px;
+    width: 230px;
     height: 28px;
     top: 10px;
     left: 47px;
@@ -47,7 +47,9 @@
   
   
   
-  /* .home-icon {
-    font-size: 20px;
-  } */
+  .home-icon {
+    
+    margin-right: 10px;
+
+  }
   

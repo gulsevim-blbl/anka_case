@@ -12,10 +12,9 @@ const Header = () => {
         <h2>ANKASOFT | ToDo List APP</h2>
       </div>
 
-      <div className="home-icon">
-        <IoMdHome />
-
-        <FaRocket />
+      <div>
+        <IoMdHome className="home-icon" color="#4E8CE7" />
+        <FaRocket className="home-icon" color="black" />
       </div>
     </nav>
   );
