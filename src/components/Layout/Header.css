@@ -1,0 +1,53 @@
+/* components/header.css */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1390px;
+    height: 48px;
+    top: 12px;
+    left: 25px;
+    border-radius: 12px;
+    gap: 10px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.6) 100%);
+
+    
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 32px;
+    height: 29px;
+    top: 10px;
+    left: 15px;
+    
+  }
+  
+  h2 {
+    color:#000000;
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 198px;
+    height: 28px;
+    top: 10px;
+    left: 47px;
+    
+  }
+  
+  
+  
+  /* .home-icon {
+    font-size: 20px;
+  } */
+  
