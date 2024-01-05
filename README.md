@@ -1,3 +1,8 @@
+
+![TodoFirstPage](https://github.com/gulsevim-blbl/anka_case/assets/73358343/28d9f0b4-c451-47d4-a825-dfe40bf03e43)
+
+![ToDoListSecond](https://github.com/gulsevim-blbl/anka_case/assets/73358343/9a26bb6b-d3f0-4cc5-8c53-bc599a209fbf)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
